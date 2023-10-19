@@ -31,7 +31,7 @@
     "pdf": {
         "paperSize": "a4",
         "margin": { 
-            "top": 48,
+            "topp": 48,
             "bottom": 48,
             "left": 36,
             "right": 36

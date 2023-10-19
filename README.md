@@ -1,6 +1,6 @@
 # Free Book + Video Course "Programming Basics with C#" 
 
-The **free** book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language. It combines **tutorial**-style learning content with **video** lessons, **code examples** and a lot of practical **coding exercises** with automated online evaluation (judge) system to ensure efficient learning.
+ **free** book "**Programming Basics with C#**" introduces the readers to writing **programming code** at beginner level (variables and data, conditional statements, loops and methods) using the **C#** language. It combines **tutorial**-style learning content with **video** lessons, **code examples** and a lot of practical **coding exercises** with automated online evaluation (judge) system to ensure efficient learning.
 
 Watch the promo video about this book + video course: https://youtu.be/_F606F3OgmQ.
 
